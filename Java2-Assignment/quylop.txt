@@ -1,0 +1,11 @@
+Mã sinh viên		Tên		S? ti?n		Ngày dóng
+A0001		Nguyen Van A		500000		22/12/2016
+A0002		Tran Thi B		200000		20/10/2016
+A0003		Nguyen Thi C		350000		19/12/2016
+A0001		Nguyen Van A		700000		30/12/2016
+A0004		Tran Ngoc D		200000		18/12/2016
+A0005		Pham Van E		200000		19/12/2016
+A0002		Tran Thi B		150000		01/01/2016
+A0001		Nguyen Van A		300000		03/01/2016
+A0004		Tran Ngoc D		200000		04/01/2017
+A0003		Nguyen Thi C		300000		07/01/2017
