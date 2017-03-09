@@ -60,12 +60,12 @@ public class ReadFile {
                         student.setMoney(temp.getMoney() + student.getMoney());
                     }
                     mapStudent.put(student.getId(), student);
-                    for (String key : mapStudent.keySet()) {
-                        System.out.println(mapStudent.get(key).toString());
-                    }
                 }
             }
             in.close();
+            for (String key : mapStudent.keySet()) {
+                System.out.println(mapStudent.get(key).toString());
+            }
         } catch (UnsupportedEncodingException e) {
             System.out.println(e.getMessage());
         }
